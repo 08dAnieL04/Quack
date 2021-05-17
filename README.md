@@ -15,7 +15,7 @@
   <a href="https://github.com/08dAnieL04/quack/issues?q=is%3Aissue+is%3Aclosed">
       <img src="https://img.shields.io/github/issues/08dAnieL04/quack.svg">
   </a>
-  <a href="https://github.com/entynetproject/quack/wiki">
+  <a href="https://github.com/08dAnieL04/quack/wiki">
       <img src="https://img.shields.io/badge/Wiki%20-Quack-lightgrey.svg">
  </a>
   <a href="https://twitter.com/08dAnieL04">
