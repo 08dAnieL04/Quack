@@ -1,25 +1,25 @@
 # Quack Toolkit
 
-![quack](https://user-images.githubusercontent.com/54115104/74247189-c04a9300-4cf6-11ea-982a-2222329215bd.jpeg)
+![quack](https://i.imgur.com/dXxtAt7.jpg)
 
 <p align="center">
   <a href="http://egozi.cf/">
-    <img src="https://img.shields.io/badge/entynetproject-Ivan%20Nikolsky-blue.svg">
+    <img src="https://img.shields.io/badge/EgoziProject-Daniel%20Shten-blue.svg">
   </a>
   <a href="https://github.com/08dAnieL04/quack/releases">
-    <img src="https://img.shields.io/github/release/entynetproject/quack.svg">
+    <img src="https://img.shields.io/github/v/release/08dAnieL04/quack.svg">
   </a>
   <a href="https://wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://img.shields.io/badge/language-python-blue.svg">
  </a>
-  <a href="https://github.com/entynetproject/quack/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues/entynetproject/quack.svg">
+  <a href="https://github.com/08dAnieL04/quack/issues?q=is%3Aissue+is%3Aclosed">
+      <img src="https://img.shields.io/github/issues/08dAnieL04/quack.svg">
   </a>
   <a href="https://github.com/entynetproject/quack/wiki">
-      <img src="https://img.shields.io/badge/wiki%20-quack-lightgrey.svg">
+      <img src="https://img.shields.io/badge/Wiki%20-Quack-lightgrey.svg">
  </a>
   <a href="https://twitter.com/08dAnieL04">
-    <img src="https://img.shields.io/badge/twitter-entynetproject-blue.svg">
+    <img src="https://img.shields.io/badge/twitter-@08dAnieL04-blue.svg">
  </a>
 </p>
 
