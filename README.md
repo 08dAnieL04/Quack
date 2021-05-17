@@ -3,10 +3,10 @@
 ![quack](https://user-images.githubusercontent.com/54115104/74247189-c04a9300-4cf6-11ea-982a-2222329215bd.jpeg)
 
 <p align="center">
-  <a href="http://entynetproject.simplesite.com/">
+  <a href="http://egozi.cf/">
     <img src="https://img.shields.io/badge/entynetproject-Ivan%20Nikolsky-blue.svg">
   </a>
-  <a href="https://github.com/entynetproject/quack/releases">
+  <a href="https://github.com/08dAnieL04/quack/releases">
     <img src="https://img.shields.io/github/release/entynetproject/quack.svg">
   </a>
   <a href="https://wikipedia.org/wiki/Python_(programming_language)">
@@ -18,7 +18,7 @@
   <a href="https://github.com/entynetproject/quack/wiki">
       <img src="https://img.shields.io/badge/wiki%20-quack-lightgrey.svg">
  </a>
-  <a href="https://twitter.com/entynetproject">
+  <a href="https://twitter.com/08dAnieL04">
     <img src="https://img.shields.io/badge/twitter-entynetproject-blue.svg">
  </a>
 </p>
@@ -106,5 +106,4 @@ Developers assume no liability and are not responsible for any misuse or damage 
 
 # Quack Toolkit license
 
-By :- Dark_Knight
-this work very well
+By :- dAnieL Leave a Credit
