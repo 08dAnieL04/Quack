@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/Wiki%20-Quack-lightgrey.svg">
  </a>
   <a href="https://twitter.com/08dAnieL04">
-    <img src="https://img.shields.io/badge/twitter-@08dAnieL04-blue.svg">
+    <img src="https://img.shields.io/badge/Twitter-@08dAnieL04-blue.svg">
  </a>
 </p>
 
